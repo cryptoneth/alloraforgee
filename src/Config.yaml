@@ -1,0 +1,6 @@
+allora:
+  api_key: "your_api_key_here"
+  mnemonic: "your mnemonic phrase here"  # or blank for new
+  topic_id: 68
+  fee_tier: "STANDARD"  # or "PRIORITY" for faster
+  debug: true
